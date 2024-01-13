@@ -5,24 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a61644bf-4325-4e87-937a-c02b8cd20605" name="Changes" comment="Initial">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/assets/Home.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/assets/explore.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/assets/likes.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/assets/reels.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/assets/saved.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/assets/setting.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/Navbar/Navbar.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/Navbar/SearchBar.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/Posts/Post.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/Posts/Posts.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/SuggestionBar/Sidebar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/SuggestionBar/SuggestProfileCard.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/Navbar/Navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/Navbar/Navbar.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/tailwind.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +99,7 @@
       <option name="presentableId" value="Default" />
       <updated>1705122435481</updated>
       <workItem from="1705122437421" duration="4102000" />
-      <workItem from="1705151140127" duration="7772000" />
+      <workItem from="1705151140127" duration="16443000" />
     </task>
     <task id="LOCAL-00001" summary="Initial">
       <option name="closed" value="true" />
